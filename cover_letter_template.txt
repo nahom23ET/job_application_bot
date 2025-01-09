@@ -1,0 +1,10 @@
+Dear {{ hiring_manager_name or 'Hiring Manager' }},
+
+I am excited to apply for the position of {{ job_title }} at {{ company_name }}. With my background in {{ skills }}, I believe I can contribute significantly to your team. 
+
+Your company's mission to {{ company_mission or 'drive innovation' }} aligns perfectly with my values and professional goals. I am particularly impressed by {{ specific_company_detail or 'your recent achievements in the industry' }}.
+
+I would welcome the opportunity to discuss how my skills and experiences align with your needs. Thank you for considering my application. I look forward to the possibility of contributing to your team.
+
+Best regards,  
+Nahom Tefera
